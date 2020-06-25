@@ -1,0 +1,20 @@
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Unity Dark Theme Patcher.exe.config
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Unity Dark Theme Patcher.exe
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Unity Dark Theme Patcher.pdb
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\obj\Debug\Unity Dark Theme Patcher.csprojAssemblyReference.cache
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\obj\Debug\Unity_Dark_Theme_Patcher.Properties.Resources.resources
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\obj\Debug\Unity Dark Theme Patcher.csproj.GenerateResource.cache
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\obj\Debug\Unity Dark Theme Patcher.csproj.CoreCompileInputs.cache
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\obj\Debug\Unity Dark Theme Patcher.exe
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\obj\Debug\Unity Dark Theme Patcher.pdb
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\obj\Debug\Unity Dark Theme Patcher.csproj.CopyComplete
+D:\Users\Skiuileuf\source\repos\Unity Dark Theme Patcher\Unity Dark Theme Patcher\obj\Debug\Unity_Dark_Theme_Patcher.Main.resources
